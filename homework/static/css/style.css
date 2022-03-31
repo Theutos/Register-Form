@@ -1,0 +1,28 @@
+h4 {
+  color: darkgray;
+  margin-bottom: 30px;
+  margin-left: 20px;
+}
+
+h3 {
+  margin-bottom: 15px;
+}
+
+.corp-name {
+  position: absolute;
+  right: 25px;
+  top: 17px;
+  opacity: 0.85;
+  font-size: 20px;
+}
+
+.alert-secondary {
+  background-color: #f8f9fa;
+  border: 0px;
+}
+
+.center-text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 5em;
+}
